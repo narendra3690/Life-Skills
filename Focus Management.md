@@ -1,4 +1,5 @@
 # Focus Management
+---
 ### Question 1: What is Deep Work?
 Deep Work is the ability to focus without distraction on a cognitively demanding task.
 
